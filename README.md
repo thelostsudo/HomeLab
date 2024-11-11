@@ -5,6 +5,8 @@ This repository documents the setup and configuration of my home lab, which incl
 
 ## Infrastructure
 - **Proxmox**: Hosts all virtual servers.
+- **Dell Inspiron 3471**: Repurposed as a physical server.
+- **Oracle Cloud**: Hosts select services.
 - **Raspberry Pi 4**: Runs AdGuard for network-wide ad blocking.
 - **Networking Equipment**:
   - **Router**: TP-Link AX1500
@@ -18,7 +20,7 @@ This repository documents the setup and configuration of my home lab, which incl
 4. **OpenVPN**: VPN server for secure access.
 5. **Uptime Kuma**: Self-hosted status monitoring.
 6. **Portainer**: Management UI for Docker containers.
+7. **Docker**: Service management and container deployment.
 
 ## Getting Started
 Refer to the individual service directories for installation and configuration instructions.
-
